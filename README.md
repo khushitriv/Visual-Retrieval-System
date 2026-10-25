@@ -63,7 +63,7 @@ The color histogram's weaker results illustrate the limitations of using color d
 These results describe the original evaluation pipeline. The final application normalizes embeddings or cosine similarity ranking. The reported matrices should not be presented as measurements of that updated ranking pipeline until the evaluation is confirmed to use the same normalization.
 
 ## Project structure
-
+```
 visual-retrieval-system/
 ├── app.py
 ├── data/
@@ -81,7 +81,7 @@ visual-retrieval-system/
 │   └── dataset_loader.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 
 Use a Python environment with the packages listed in requirements.txt.
