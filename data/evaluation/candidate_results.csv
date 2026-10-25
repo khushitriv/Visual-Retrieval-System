@@ -1,0 +1,451 @@
+query_id,method,rank,candidate_index,candidate_path,candidate_room,candidate_style,similarity
+0,CLIP,1,1175,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_49.jpg,bedroom,minimalist,0.8987070322036743
+0,CLIP,2,1542,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_60.jpg,bedroom,scandinavian,0.8987070322036743
+0,CLIP,3,1032,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_86.jpg,bedroom,industrial,0.8954092264175415
+0,CLIP,4,1514,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_35.jpg,bedroom,scandinavian,0.8873818516731262
+0,CLIP,5,781,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_42.jpg,bedroom,boho,0.8865998983383179
+0,ResNet,1,3166,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_173.jpg,living_room,boho,0.7719680070877075
+0,ResNet,2,1481,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_142.jpg,bedroom,scandinavian,0.7664239406585693
+0,ResNet,3,944,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_189.jpg,bedroom,industrial,0.7664239406585693
+0,ResNet,4,1549,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_67.jpg,bedroom,scandinavian,0.7657968997955322
+0,ResNet,5,783,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_44.jpg,bedroom,boho,0.765796422958374
+0,Color Histogram,1,209,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_38.jpg,bathroom,industrial,0.9865788221359253
+0,Color Histogram,2,1003,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_6.jpg,bedroom,industrial,0.9840890765190125
+0,Color Histogram,3,3348,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_171.jpg,living_room,industrial,0.9840890765190125
+0,Color Histogram,4,3435,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_7.jpg,living_room,industrial,0.9831222295761108
+0,Color Histogram,5,3175,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_181.jpg,living_room,boho,0.9824976325035095
+1,CLIP,1,1220,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_9.jpg,bedroom,minimalist,0.908522367477417
+1,CLIP,2,3571,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_191.jpg,living_room,minimalist,0.8505558967590332
+1,CLIP,3,1093,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_14.jpg,bedroom,minimalist,0.8505558967590332
+1,CLIP,4,4025,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_147.jpg,living_room,scandinavian,0.8448063731193542
+1,CLIP,5,1556,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_73.jpg,bedroom,scandinavian,0.8438917994499207
+1,ResNet,1,3745,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_165.jpg,living_room,modern,0.8072576522827148
+1,ResNet,2,2806,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_332.jpg,kitchen,modern,0.8065587282180786
+1,ResNet,3,4065,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_32.jpg,living_room,scandinavian,0.8050525784492493
+1,ResNet,4,4025,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_147.jpg,living_room,scandinavian,0.7918161153793335
+1,ResNet,5,1220,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_9.jpg,bedroom,minimalist,0.7908222079277039
+1,Color Histogram,1,859,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_111.jpg,bedroom,industrial,0.9754778146743774
+1,Color Histogram,2,1994,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_467.jpg,kitchen,boho,0.9707083702087402
+1,Color Histogram,3,3492,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_12.jpg,living_room,minimalist,0.9693123698234558
+1,Color Histogram,4,3386,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_25.jpg,living_room,industrial,0.9671862125396729
+1,Color Histogram,5,3293,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_121.jpg,living_room,industrial,0.967107355594635
+2,CLIP,1,1184,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_57.jpg,bedroom,minimalist,0.8535829782485962
+2,CLIP,2,1224,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_93.jpg,bedroom,minimalist,0.8500235080718994
+2,CLIP,3,808,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_67.jpg,bedroom,boho,0.8479862213134766
+2,CLIP,4,779,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_40.jpg,bedroom,boho,0.840401291847229
+2,CLIP,5,769,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_31.jpg,bedroom,boho,0.834648609161377
+2,ResNet,1,1183,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_56.jpg,bedroom,minimalist,0.8403602838516235
+2,ResNet,2,1508,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_3.jpg,bedroom,scandinavian,0.8387050628662109
+2,ResNet,3,3746,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_166.jpg,living_room,modern,0.8249248266220093
+2,ResNet,4,4063,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_30.jpg,living_room,scandinavian,0.8218251466751099
+2,ResNet,5,3566,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_187.jpg,living_room,minimalist,0.8184508681297302
+2,Color Histogram,1,603,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_116.jpg,bathroom,scandinavian,0.9607318639755249
+2,Color Histogram,2,2334,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_79.jpg,kitchen,industrial,0.9594956636428833
+2,Color Histogram,3,1250,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_115.jpg,bedroom,modern,0.958087682723999
+2,Color Histogram,4,2153,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_185.jpg,kitchen,industrial,0.9577623605728149
+2,Color Histogram,5,3750,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_17.jpg,living_room,modern,0.95647132396698
+3,CLIP,1,2349,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_92.jpg,kitchen,industrial,0.8876780271530151
+3,CLIP,2,1586,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_1.jpg,kitchen,boho,0.8777469396591187
+3,CLIP,3,2600,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_147.jpg,kitchen,modern,0.861220121383667
+3,CLIP,4,2957,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_12.jpg,kitchen,scandinavian,0.8446491360664368
+3,CLIP,5,2906,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_75.jpg,kitchen,modern,0.8432733416557312
+3,ResNet,1,2600,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_147.jpg,kitchen,modern,0.8402383923530579
+3,ResNet,2,2602,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_149.jpg,kitchen,modern,0.8253781795501709
+3,ResNet,3,2672,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_211.jpg,kitchen,modern,0.8229036331176758
+3,ResNet,4,2442,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_175.jpg,kitchen,minimalist,0.8229036331176758
+3,ResNet,5,2601,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_148.jpg,kitchen,modern,0.8223965167999268
+3,Color Histogram,1,1350,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_25.jpg,bedroom,modern,0.970659613609314
+3,Color Histogram,2,3803,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_217.jpg,living_room,modern,0.9705489873886108
+3,Color Histogram,3,2355,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_98.jpg,kitchen,industrial,0.9631662964820862
+3,Color Histogram,4,2459,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_20.jpg,kitchen,minimalist,0.963042140007019
+3,Color Histogram,5,3440,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_74.jpg,living_room,industrial,0.9608472585678101
+4,CLIP,1,287,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_107.jpg,bathroom,minimalist,0.8966395854949951
+4,CLIP,2,354,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_17.jpg,bathroom,minimalist,0.8806549310684204
+4,CLIP,3,298,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_117.jpg,bathroom,minimalist,0.8644590377807617
+4,CLIP,4,478,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_128.jpg,bathroom,modern,0.8583186864852905
+4,CLIP,5,371,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_32.jpg,bathroom,minimalist,0.8554784655570984
+4,ResNet,1,2783,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_311.jpg,kitchen,modern,0.7969313263893127
+4,ResNet,2,589,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_103.jpg,bathroom,scandinavian,0.7874254584312439
+4,ResNet,3,365,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_27.jpg,bathroom,minimalist,0.7814757227897644
+4,ResNet,4,3812,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_225.jpg,living_room,modern,0.7811810970306396
+4,ResNet,5,2784,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_312.jpg,kitchen,modern,0.7811810970306396
+4,Color Histogram,1,2931,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_98.jpg,kitchen,modern,0.9377435445785522
+4,Color Histogram,2,3775,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_192.jpg,living_room,modern,0.9330360293388367
+4,Color Histogram,3,1577,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_92.jpg,bedroom,scandinavian,0.929847002029419
+4,Color Histogram,4,1227,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_96.jpg,bedroom,minimalist,0.9289237856864929
+4,Color Histogram,5,84,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_65.jpg,bathroom,boho,0.9276652336120605
+5,CLIP,1,3117,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_129.jpg,living_room,boho,0.8391580581665039
+5,CLIP,2,3416,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_52.jpg,living_room,industrial,0.7924017906188965
+5,CLIP,3,3412,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_49.jpg,living_room,industrial,0.7900893092155457
+5,CLIP,4,930,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_176.jpg,bedroom,industrial,0.7900893092155457
+5,CLIP,5,3388,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_27.jpg,living_room,industrial,0.7717110514640808
+5,ResNet,1,3398,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_36.jpg,living_room,industrial,0.6400846242904663
+5,ResNet,2,3299,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_127.jpg,living_room,industrial,0.6396615505218506
+5,ResNet,3,964,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_24.jpg,bedroom,industrial,0.6032354235649109
+5,ResNet,4,3400,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_38.jpg,living_room,industrial,0.5951582789421082
+5,ResNet,5,2222,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_247.jpg,kitchen,industrial,0.5939721465110779
+5,Color Histogram,1,3435,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_7.jpg,living_room,industrial,0.9865953922271729
+5,Color Histogram,2,209,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_38.jpg,bathroom,industrial,0.9822056293487549
+5,Color Histogram,3,3246,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_80.jpg,living_room,boho,0.98176109790802
+5,Color Histogram,4,2678,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_217.jpg,kitchen,modern,0.981472373008728
+5,Color Histogram,5,3195,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_34.jpg,living_room,boho,0.9812764525413513
+6,CLIP,1,3503,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_13.jpg,living_room,minimalist,0.8713058829307556
+6,CLIP,2,3486,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_114.jpg,living_room,minimalist,0.8597732782363892
+6,CLIP,3,3663,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_92.jpg,living_room,minimalist,0.8487666845321655
+6,CLIP,4,3558,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_18.jpg,living_room,minimalist,0.8485759496688843
+6,CLIP,5,3649,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_8.jpg,living_room,minimalist,0.847778856754303
+6,ResNet,1,2748,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_280.jpg,kitchen,modern,0.8529971837997437
+6,ResNet,2,3636,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_68.jpg,living_room,minimalist,0.8529971837997437
+6,ResNet,3,4062,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_3.jpg,living_room,scandinavian,0.851897656917572
+6,ResNet,4,3581,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_20.jpg,living_room,minimalist,0.8498477935791016
+6,ResNet,5,1055,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_105.jpg,bedroom,minimalist,0.8498477935791016
+6,Color Histogram,1,3576,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_196.jpg,living_room,minimalist,0.9395280480384827
+6,Color Histogram,2,4135,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_96.jpg,living_room,scandinavian,0.9222208261489868
+6,Color Histogram,3,886,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_136.jpg,bedroom,industrial,0.9199055433273315
+6,Color Histogram,4,3256,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_9.jpg,living_room,boho,0.9188750982284546
+6,Color Histogram,5,1229,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_98.jpg,bedroom,minimalist,0.9169675707817078
+7,CLIP,1,1931,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_41.jpg,kitchen,boho,0.7025103569030762
+7,CLIP,2,1113,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_158.jpg,bedroom,minimalist,0.6562265753746033
+7,CLIP,3,2786,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_314.jpg,kitchen,modern,0.6436302065849304
+7,CLIP,4,2165,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_196.jpg,kitchen,industrial,0.6305432319641113
+7,CLIP,5,2256,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_278.jpg,kitchen,industrial,0.6234357357025146
+7,ResNet,1,2242,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_265.jpg,kitchen,industrial,0.5807432532310486
+7,ResNet,2,3071,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_89.jpg,kitchen,scandinavian,0.5806458592414856
+7,ResNet,3,1931,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_41.jpg,kitchen,boho,0.5780321359634399
+7,ResNet,4,2934,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_1.jpg,kitchen,scandinavian,0.5768553018569946
+7,ResNet,5,1273,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_136.jpg,bedroom,modern,0.5426132678985596
+7,Color Histogram,1,3074,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_91.jpg,kitchen,scandinavian,0.8987025022506714
+7,Color Histogram,2,1888,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_371.jpg,kitchen,boho,0.8975086212158203
+7,Color Histogram,3,2672,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_211.jpg,kitchen,modern,0.897335410118103
+7,Color Histogram,4,2442,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_175.jpg,kitchen,minimalist,0.897335410118103
+7,Color Histogram,5,2627,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_171.jpg,kitchen,modern,0.8971919417381287
+8,CLIP,1,2660,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_200.jpg,kitchen,modern,0.8794944286346436
+8,CLIP,2,3918,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_51.jpg,living_room,modern,0.8794944286346436
+8,CLIP,3,3649,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_8.jpg,living_room,minimalist,0.8689967393875122
+8,CLIP,4,3647,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_78.jpg,living_room,minimalist,0.8684852123260498
+8,CLIP,5,3499,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_126.jpg,living_room,minimalist,0.8591669797897339
+8,ResNet,1,2660,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_200.jpg,kitchen,modern,0.8886857628822327
+8,ResNet,2,3918,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_51.jpg,living_room,modern,0.8886857628822327
+8,ResNet,3,3692,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_117.jpg,living_room,modern,0.8744322657585144
+8,ResNet,4,3839,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_25.jpg,living_room,modern,0.8589102029800415
+8,ResNet,5,2645,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_188.jpg,kitchen,modern,0.8589102029800415
+8,Color Histogram,1,2535,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_9.jpg,kitchen,minimalist,0.9766923785209656
+8,Color Histogram,2,3498,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_125.jpg,living_room,minimalist,0.9751242399215698
+8,Color Histogram,3,2595,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_142.jpg,kitchen,modern,0.9739061594009399
+8,Color Histogram,4,3305,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_132.jpg,living_room,industrial,0.9731919765472412
+8,Color Histogram,5,1496,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_19.jpg,bedroom,scandinavian,0.9712434411048889
+9,CLIP,1,80,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_61.jpg,bathroom,boho,0.9240657091140747
+9,CLIP,2,530,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_51.jpg,bathroom,modern,0.9239225387573242
+9,CLIP,3,536,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_57.jpg,bathroom,modern,0.9178194999694824
+9,CLIP,4,496,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_20.jpg,bathroom,modern,0.9140479564666748
+9,CLIP,5,512,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_35.jpg,bathroom,modern,0.9043822884559631
+9,ResNet,1,51,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_35.jpg,bathroom,boho,0.7089391946792603
+9,ResNet,2,273,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_96.jpg,bathroom,industrial,0.6975862383842468
+9,ResNet,3,211,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_4.jpg,bathroom,industrial,0.6962321996688843
+9,ResNet,4,447,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_10.jpg,bathroom,modern,0.6890106797218323
+9,ResNet,5,295,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_114.jpg,bathroom,minimalist,0.6878897547721863
+9,Color Histogram,1,550,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_7.jpg,bathroom,modern,0.9751678109169006
+9,Color Histogram,2,3719,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_141.jpg,living_room,modern,0.974854588508606
+9,Color Histogram,3,3111,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_123.jpg,living_room,boho,0.9747304320335388
+9,Color Histogram,4,389,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_49.jpg,bathroom,minimalist,0.974096953868866
+9,Color Histogram,5,3614,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_48.jpg,living_room,minimalist,0.9740079641342163
+10,CLIP,1,3941,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_72.jpg,living_room,modern,0.872660756111145
+10,CLIP,2,3504,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_130.jpg,living_room,minimalist,0.8716558218002319
+10,CLIP,3,4051,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_2.jpg,living_room,scandinavian,0.8656079173088074
+10,CLIP,4,2793,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_320.jpg,kitchen,modern,0.8619723916053772
+10,CLIP,5,3585,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_21.jpg,living_room,minimalist,0.8619723916053772
+10,ResNet,1,1475,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_137.jpg,bedroom,scandinavian,0.8743554949760437
+10,ResNet,2,4112,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_75.jpg,living_room,scandinavian,0.8743554949760437
+10,ResNet,3,1575,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_90.jpg,bedroom,scandinavian,0.8632712960243225
+10,ResNet,4,4069,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_36.jpg,living_room,scandinavian,0.8632712960243225
+10,ResNet,5,2958,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_120.jpg,kitchen,scandinavian,0.8632712960243225
+10,Color Histogram,1,2940,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_104.jpg,kitchen,scandinavian,0.9741310477256775
+10,Color Histogram,2,3048,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_68.jpg,kitchen,scandinavian,0.9714652895927429
+10,Color Histogram,3,2802,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_329.jpg,kitchen,modern,0.9706188440322876
+10,Color Histogram,4,3072,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_9.jpg,kitchen,scandinavian,0.9703740477561951
+10,Color Histogram,5,3709,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_132.jpg,living_room,modern,0.969451904296875
+11,CLIP,1,501,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_25.jpg,bathroom,modern,0.8681528568267822
+11,CLIP,2,174,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_145.jpg,bathroom,industrial,0.852615475654602
+11,CLIP,3,2837,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_360.jpg,kitchen,modern,0.8477303981781006
+11,CLIP,4,130,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_105.jpg,bathroom,industrial,0.8457768559455872
+11,CLIP,5,633,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_35.jpg,bathroom,scandinavian,0.839360773563385
+11,ResNet,1,3670,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_99.jpg,living_room,minimalist,0.8077216148376465
+11,ResNet,2,2595,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_142.jpg,kitchen,modern,0.7992743849754333
+11,ResNet,3,886,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_136.jpg,bedroom,industrial,0.7979260683059692
+11,ResNet,4,3631,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_63.jpg,living_room,minimalist,0.7974014282226562
+11,ResNet,5,3426,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_61.jpg,living_room,industrial,0.7963144779205322
+11,Color Histogram,1,3795,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_21.jpg,living_room,modern,0.9542547464370728
+11,Color Histogram,2,3493,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_120.jpg,living_room,minimalist,0.9441936612129211
+11,Color Histogram,3,1666,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_171.jpg,kitchen,boho,0.9431255459785461
+11,Color Histogram,4,3602,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_37.jpg,living_room,minimalist,0.9414476156234741
+11,Color Histogram,5,884,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_134.jpg,bedroom,industrial,0.9408440589904785
+12,CLIP,1,2295,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_43.jpg,kitchen,industrial,0.922288715839386
+12,CLIP,2,3195,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_34.jpg,living_room,boho,0.8897289037704468
+12,CLIP,3,3404,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_41.jpg,living_room,industrial,0.888213038444519
+12,CLIP,4,1013,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_69.jpg,bedroom,industrial,0.8749558925628662
+12,CLIP,5,995,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_52.jpg,bedroom,industrial,0.8743244409561157
+12,ResNet,1,1044,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_97.jpg,bedroom,industrial,0.7786262631416321
+12,ResNet,2,2295,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_43.jpg,kitchen,industrial,0.7712444067001343
+12,ResNet,3,3417,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_53.jpg,living_room,industrial,0.7672522068023682
+12,ResNet,4,3464,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_96.jpg,living_room,industrial,0.764560341835022
+12,ResNet,5,886,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_136.jpg,bedroom,industrial,0.7584413886070251
+12,Color Histogram,1,1208,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_79.jpg,bedroom,minimalist,0.9782165884971619
+12,Color Histogram,2,3446,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_8.jpg,living_room,industrial,0.9782103896141052
+12,Color Histogram,3,916,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_163.jpg,bedroom,industrial,0.9782103896141052
+12,Color Histogram,4,1001,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_58.jpg,bedroom,industrial,0.9772557020187378
+12,Color Histogram,5,528,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_5.jpg,bathroom,modern,0.9757918119430542
+13,CLIP,1,3202,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_40.jpg,living_room,boho,0.868506908416748
+13,CLIP,2,3206,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_44.jpg,living_room,boho,0.8684359788894653
+13,CLIP,3,1917,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_398.jpg,kitchen,boho,0.8456676602363586
+13,CLIP,4,3193,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_32.jpg,living_room,boho,0.8432318568229675
+13,CLIP,5,3099,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_112.jpg,living_room,boho,0.8407852053642273
+13,ResNet,1,3469,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_1.jpg,living_room,minimalist,0.7995141744613647
+13,ResNet,2,3901,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_36.jpg,living_room,modern,0.7902175188064575
+13,ResNet,3,3201,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_4.jpg,living_room,boho,0.7902175188064575
+13,ResNet,4,4063,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_30.jpg,living_room,scandinavian,0.7881154417991638
+13,ResNet,5,3254,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_88.jpg,living_room,boho,0.7847684621810913
+13,Color Histogram,1,3201,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_4.jpg,living_room,boho,0.9387508630752563
+13,Color Histogram,2,3901,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_36.jpg,living_room,modern,0.9387508630752563
+13,Color Histogram,3,4090,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_55.jpg,living_room,scandinavian,0.9381253719329834
+13,Color Histogram,4,1662,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_168.jpg,kitchen,boho,0.9369652271270752
+13,Color Histogram,5,1692,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_195.jpg,kitchen,boho,0.9368225932121277
+14,CLIP,1,3987,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_112.jpg,living_room,scandinavian,0.8519052267074585
+14,CLIP,2,3601,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_36.jpg,living_room,minimalist,0.8489642143249512
+14,CLIP,3,3124,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_135.jpg,living_room,boho,0.8420759439468384
+14,CLIP,4,1379,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_51.jpg,bedroom,modern,0.8367342948913574
+14,CLIP,5,4071,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_38.jpg,living_room,scandinavian,0.8351649045944214
+14,ResNet,1,4062,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_3.jpg,living_room,scandinavian,0.8690153360366821
+14,ResNet,2,1240,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_106.jpg,bedroom,modern,0.834641695022583
+14,ResNet,3,3805,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_219.jpg,living_room,modern,0.834641695022583
+14,ResNet,4,3710,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_133.jpg,living_room,modern,0.8329267501831055
+14,ResNet,5,1399,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_7.jpg,bedroom,modern,0.8329267501831055
+14,Color Histogram,1,3980,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_106.jpg,living_room,scandinavian,0.9485349655151367
+14,Color Histogram,2,1362,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_36.jpg,bedroom,modern,0.9484848976135254
+14,Color Histogram,3,2845,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_368.jpg,kitchen,modern,0.9450769424438477
+14,Color Histogram,4,2013,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_6.jpg,kitchen,boho,0.9440874457359314
+14,Color Histogram,5,1875,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_36.jpg,kitchen,boho,0.9416216611862183
+15,CLIP,1,660,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_6.jpg,bathroom,scandinavian,0.9158034324645996
+15,CLIP,2,357,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_2.jpg,bathroom,minimalist,0.9031639099121094
+15,CLIP,3,256,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_80.jpg,bathroom,industrial,0.8978583812713623
+15,CLIP,4,427,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_83.jpg,bathroom,minimalist,0.8977460861206055
+15,CLIP,5,400,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_59.jpg,bathroom,minimalist,0.8974353075027466
+15,ResNet,1,574,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_91.jpg,bathroom,modern,0.8206212520599365
+15,ResNet,2,2422,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_157.jpg,kitchen,minimalist,0.8127590417861938
+15,ResNet,3,1227,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_96.jpg,bedroom,minimalist,0.7928838729858398
+15,ResNet,4,2664,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_204.jpg,kitchen,modern,0.7906873822212219
+15,ResNet,5,218,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_46.jpg,bathroom,industrial,0.7855629920959473
+15,Color Histogram,1,634,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_36.jpg,bathroom,scandinavian,0.9756224155426025
+15,Color Histogram,2,97,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_77.jpg,bathroom,boho,0.9739072322845459
+15,Color Histogram,3,3281,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_110.jpg,living_room,industrial,0.9734190702438354
+15,Color Histogram,4,3145,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_154.jpg,living_room,boho,0.9676680564880371
+15,Color Histogram,5,2629,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_173.jpg,kitchen,modern,0.9667708873748779
+16,CLIP,1,2142,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_175.jpg,kitchen,industrial,0.7192209362983704
+16,CLIP,2,1826,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_315.jpg,kitchen,boho,0.6445268392562866
+16,CLIP,3,734,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_125.jpg,bedroom,boho,0.6336343288421631
+16,CLIP,4,708,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_101.jpg,bedroom,boho,0.630245566368103
+16,CLIP,5,1075,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_123.jpg,bedroom,minimalist,0.630245566368103
+16,ResNet,1,355,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_18.jpg,bathroom,minimalist,0.6068458557128906
+16,ResNet,2,3784,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_20.jpg,living_room,modern,0.5927614569664001
+16,ResNet,3,1699,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_200.jpg,kitchen,boho,0.5663933753967285
+16,ResNet,4,406,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_64.jpg,bathroom,minimalist,0.5662746429443359
+16,ResNet,5,607,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_12.jpg,bathroom,scandinavian,0.5625535845756531
+16,Color Histogram,1,555,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_74.jpg,bathroom,modern,0.9429475665092468
+16,Color Histogram,2,828,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_85.jpg,bedroom,boho,0.9413411617279053
+16,Color Histogram,3,523,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_45.jpg,bathroom,modern,0.9406737685203552
+16,Color Histogram,4,1379,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_51.jpg,bedroom,modern,0.9390356540679932
+16,Color Histogram,5,3254,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_88.jpg,living_room,boho,0.9388401508331299
+17,CLIP,1,2903,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_72.jpg,kitchen,modern,1.0
+17,CLIP,2,2889,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_6.jpg,kitchen,modern,0.8909426927566528
+17,CLIP,3,2479,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_39.jpg,kitchen,minimalist,0.8847923278808594
+17,CLIP,4,2364,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_104.jpg,kitchen,minimalist,0.8829838037490845
+17,CLIP,5,2803,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_33.jpg,kitchen,modern,0.8829838037490845
+17,ResNet,1,2903,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_72.jpg,kitchen,modern,1.0
+17,ResNet,2,2137,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_170.jpg,kitchen,industrial,0.8570461273193359
+17,ResNet,3,2921,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_89.jpg,kitchen,modern,0.8478225469589233
+17,ResNet,4,2745,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_278.jpg,kitchen,modern,0.8476676940917969
+17,ResNet,5,2045,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_89.jpg,kitchen,boho,0.8387849926948547
+17,Color Histogram,1,2903,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_72.jpg,kitchen,modern,1.0000001192092896
+17,Color Histogram,2,3088,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_102.jpg,living_room,boho,0.928082287311554
+17,Color Histogram,3,1052,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_102.jpg,bedroom,minimalist,0.9251559972763062
+17,Color Histogram,4,1416,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_85.jpg,bedroom,modern,0.9092370271682739
+17,Color Histogram,5,1094,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_140.jpg,bedroom,minimalist,0.9084537029266357
+18,CLIP,1,115,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_93.jpg,bathroom,boho,0.8166114091873169
+18,CLIP,2,116,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_94.jpg,bathroom,boho,0.7934684753417969
+18,CLIP,3,107,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_86.jpg,bathroom,boho,0.7752447724342346
+18,CLIP,4,104,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_83.jpg,bathroom,boho,0.7660139203071594
+18,CLIP,5,102,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_81.jpg,bathroom,boho,0.7660139203071594
+18,ResNet,1,108,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_87.jpg,bathroom,boho,0.7603861093521118
+18,ResNet,2,119,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_97.jpg,bathroom,boho,0.7506394386291504
+18,ResNet,3,101,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_80.jpg,bathroom,boho,0.7434749603271484
+18,ResNet,4,11,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_108.jpg,bathroom,boho,0.7417441606521606
+18,ResNet,5,99,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_79.jpg,bathroom,boho,0.7374464869499207
+18,Color Histogram,1,3216,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_53.jpg,living_room,boho,0.9433147311210632
+18,Color Histogram,2,1822,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_311.jpg,kitchen,boho,0.938258707523346
+18,Color Histogram,3,2584,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_132.jpg,kitchen,modern,0.9373454451560974
+18,Color Histogram,4,3202,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_40.jpg,living_room,boho,0.9365012049674988
+18,Color Histogram,5,3418,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_54.jpg,living_room,industrial,0.9332442283630371
+19,CLIP,1,911,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_159.jpg,bedroom,industrial,0.993775486946106
+19,CLIP,2,3414,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_50.jpg,living_room,industrial,0.9826256036758423
+19,CLIP,3,935,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_180.jpg,bedroom,industrial,0.9716320037841797
+19,CLIP,4,3461,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_93.jpg,living_room,industrial,0.9174278974533081
+19,CLIP,5,3273,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_103.jpg,living_room,industrial,0.8888965845108032
+19,ResNet,1,911,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_159.jpg,bedroom,industrial,0.9798078536987305
+19,ResNet,2,3433,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_68.jpg,living_room,industrial,0.9610614776611328
+19,ResNet,3,935,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_180.jpg,bedroom,industrial,0.951271116733551
+19,ResNet,4,3414,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_50.jpg,living_room,industrial,0.9467493295669556
+19,ResNet,5,3373,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_194.jpg,living_room,industrial,0.9127233028411865
+19,Color Histogram,1,911,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_159.jpg,bedroom,industrial,0.9981057643890381
+19,Color Histogram,2,935,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_180.jpg,bedroom,industrial,0.9973338842391968
+19,Color Histogram,3,3433,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_68.jpg,living_room,industrial,0.9971274137496948
+19,Color Histogram,4,3373,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_194.jpg,living_room,industrial,0.9968258142471313
+19,Color Histogram,5,958,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_200.jpg,bedroom,industrial,0.9968258142471313
+20,CLIP,1,480,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_13.jpg,bathroom,modern,0.9323599338531494
+20,CLIP,2,2783,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_311.jpg,kitchen,modern,0.9323040246963501
+20,CLIP,3,505,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_29.jpg,bathroom,modern,0.9281405806541443
+20,CLIP,4,401,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_6.jpg,bathroom,minimalist,0.9243766069412231
+20,CLIP,5,528,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_5.jpg,bathroom,modern,0.9241470098495483
+20,ResNet,1,3546,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_169.jpg,living_room,minimalist,0.8524889349937439
+20,ResNet,2,473,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_123.jpg,bathroom,modern,0.843618631362915
+20,ResNet,3,645,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_46.jpg,bathroom,scandinavian,0.8263023495674133
+20,ResNet,4,526,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_48.jpg,bathroom,modern,0.8246588110923767
+20,ResNet,5,298,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_117.jpg,bathroom,minimalist,0.8157572150230408
+20,Color Histogram,1,1205,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_76.jpg,bedroom,minimalist,0.9777491092681885
+20,Color Histogram,2,3937,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_69.jpg,living_room,modern,0.9764772653579712
+20,Color Histogram,3,2892,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_62.jpg,kitchen,modern,0.9747856855392456
+20,Color Histogram,4,746,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_136.jpg,bedroom,boho,0.9739825129508972
+20,Color Histogram,5,3771,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_189.jpg,living_room,modern,0.9737962484359741
+21,CLIP,1,800,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_6.jpg,bedroom,boho,0.8640504479408264
+21,CLIP,2,787,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_48.jpg,bedroom,boho,0.8278607130050659
+21,CLIP,3,824,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_81.jpg,bedroom,boho,0.8164169192314148
+21,CLIP,4,791,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_51.jpg,bedroom,boho,0.8081958293914795
+21,CLIP,5,834,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_90.jpg,bedroom,boho,0.8066301345825195
+21,ResNet,1,834,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_90.jpg,bedroom,boho,0.6817278265953064
+21,ResNet,2,811,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_7.jpg,bedroom,boho,0.6765925884246826
+21,ResNet,3,800,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_6.jpg,bedroom,boho,0.6543067693710327
+21,ResNet,4,757,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_20.jpg,bedroom,boho,0.63946533203125
+21,ResNet,5,27,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_13.jpg,bathroom,boho,0.6369009017944336
+21,Color Histogram,1,2981,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_141.jpg,kitchen,scandinavian,0.968562126159668
+21,Color Histogram,2,1378,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_50.jpg,bedroom,modern,0.9659543037414551
+21,Color Histogram,3,2797,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_324.jpg,kitchen,modern,0.965172290802002
+21,Color Histogram,4,2926,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_93.jpg,kitchen,modern,0.9643415212631226
+21,Color Histogram,5,1184,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_57.jpg,bedroom,minimalist,0.9626946449279785
+22,CLIP,1,47,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_31.jpg,bathroom,boho,0.73317551612854
+22,CLIP,2,191,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_21.jpg,bathroom,industrial,0.730167806148529
+22,CLIP,3,295,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_114.jpg,bathroom,minimalist,0.7301677465438843
+22,CLIP,4,630,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_32.jpg,bathroom,scandinavian,0.7225285768508911
+22,CLIP,5,224,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_51.jpg,bathroom,industrial,0.7139694094657898
+22,ResNet,1,2806,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_332.jpg,kitchen,modern,0.7714735269546509
+22,ResNet,2,3800,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_214.jpg,living_room,modern,0.759976327419281
+22,ResNet,3,218,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_46.jpg,bathroom,industrial,0.7514026761054993
+22,ResNet,4,37,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_22.jpg,bathroom,boho,0.7467409372329712
+22,ResNet,5,408,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_66.jpg,bathroom,minimalist,0.7389690279960632
+22,Color Histogram,1,728,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_12.jpg,bedroom,boho,0.9715021848678589
+22,Color Histogram,2,3248,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_82.jpg,living_room,boho,0.9713178873062134
+22,Color Histogram,3,1467,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_13.jpg,bedroom,scandinavian,0.9710298776626587
+22,Color Histogram,4,3194,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_33.jpg,living_room,boho,0.9709241986274719
+22,Color Histogram,5,3186,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_26.jpg,living_room,boho,0.9707422256469727
+23,CLIP,1,2519,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_75.jpg,kitchen,minimalist,0.9999270439147949
+23,CLIP,2,2897,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_67.jpg,kitchen,modern,0.9999270439147949
+23,CLIP,3,3871,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_279.jpg,living_room,modern,0.8699691891670227
+23,CLIP,4,2703,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_24.jpg,kitchen,modern,0.8688699007034302
+23,CLIP,5,2940,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_104.jpg,kitchen,scandinavian,0.8573064208030701
+23,ResNet,1,2519,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_75.jpg,kitchen,minimalist,0.9999312162399292
+23,ResNet,2,2897,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_67.jpg,kitchen,modern,0.9999312162399292
+23,ResNet,3,2623,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_168.jpg,kitchen,modern,0.8463460206985474
+23,ResNet,4,2694,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_231.jpg,kitchen,modern,0.8374839425086975
+23,ResNet,5,2992,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_17.jpg,kitchen,scandinavian,0.8365010023117065
+23,Color Histogram,1,2519,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_75.jpg,kitchen,minimalist,0.9999958872795105
+23,Color Histogram,2,2897,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_67.jpg,kitchen,modern,0.9999958872795105
+23,Color Histogram,3,3640,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_71.jpg,living_room,minimalist,0.973738968372345
+23,Color Histogram,4,3239,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_74.jpg,living_room,boho,0.973738968372345
+23,Color Histogram,5,1811,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_301.jpg,kitchen,boho,0.9656656980514526
+24,CLIP,1,1118,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_162.jpg,bedroom,minimalist,0.5276464223861694
+24,CLIP,2,3219,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_56.jpg,living_room,boho,0.4764830470085144
+24,CLIP,3,1969,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_444.jpg,kitchen,boho,0.47333067655563354
+24,CLIP,4,4005,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_129.jpg,living_room,scandinavian,0.47242462635040283
+24,CLIP,5,2042,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_86.jpg,kitchen,boho,0.46845507621765137
+24,ResNet,1,1939,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_417.jpg,kitchen,boho,0.6982828974723816
+24,ResNet,2,2034,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_79.jpg,kitchen,boho,0.6524852514266968
+24,ResNet,3,2185,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_213.jpg,kitchen,industrial,0.5998903512954712
+24,ResNet,4,1279,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\modern\bedroom_modern_141.jpg,bedroom,modern,0.5733955502510071
+24,ResNet,5,1122,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_166.jpg,bedroom,minimalist,0.5674909949302673
+24,Color Histogram,1,1457,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_120.jpg,bedroom,scandinavian,0.6806167364120483
+24,Color Histogram,2,779,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_40.jpg,bedroom,boho,0.6746177673339844
+24,Color Histogram,3,3601,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_36.jpg,living_room,minimalist,0.6701484322547913
+24,Color Histogram,4,3807,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_220.jpg,living_room,modern,0.6676028966903687
+24,Color Histogram,5,777,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_39.jpg,bedroom,boho,0.6645516157150269
+25,CLIP,1,443,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_98.jpg,bathroom,minimalist,0.8280077576637268
+25,CLIP,2,284,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_104.jpg,bathroom,minimalist,0.7911128997802734
+25,CLIP,3,404,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_62.jpg,bathroom,minimalist,0.7824888825416565
+25,CLIP,4,537,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_58.jpg,bathroom,modern,0.7821584939956665
+25,CLIP,5,283,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_103.jpg,bathroom,minimalist,0.7821584939956665
+25,ResNet,1,289,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_109.jpg,bathroom,minimalist,0.5046975612640381
+25,ResNet,2,278,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_1.jpg,bathroom,minimalist,0.4770517349243164
+25,ResNet,3,243,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_69.jpg,bathroom,industrial,0.47551363706588745
+25,ResNet,4,295,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\minimalist\bathroom_minimalist_114.jpg,bathroom,minimalist,0.4684280753135681
+25,ResNet,5,191,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_21.jpg,bathroom,industrial,0.4684280753135681
+25,Color Histogram,1,176,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_147.jpg,bathroom,industrial,0.9855269193649292
+25,Color Histogram,2,1918,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_399.jpg,kitchen,boho,0.9797787666320801
+25,Color Histogram,3,4046,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_166.jpg,living_room,scandinavian,0.9787495732307434
+25,Color Histogram,4,1141,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_183.jpg,bedroom,minimalist,0.9733580350875854
+25,Color Histogram,5,2799,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_326.jpg,kitchen,modern,0.9711040258407593
+26,CLIP,1,2970,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\scandinavian\kitchen_scandinavian_131.jpg,kitchen,scandinavian,0.8085607886314392
+26,CLIP,2,3084,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_1.jpg,living_room,boho,0.8033437728881836
+26,CLIP,3,815,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_73.jpg,bedroom,boho,0.8033437728881836
+26,CLIP,4,3096,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_11.jpg,living_room,boho,0.8009159564971924
+26,CLIP,5,1462,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_125.jpg,bedroom,scandinavian,0.799869179725647
+26,ResNet,1,3242,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_77.jpg,living_room,boho,0.8426380157470703
+26,ResNet,2,3202,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_40.jpg,living_room,boho,0.8388692736625671
+26,ResNet,3,1051,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_101.jpg,bedroom,minimalist,0.823406457901001
+26,ResNet,4,3199,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_38.jpg,living_room,boho,0.8086882829666138
+26,ResNet,5,4068,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_35.jpg,living_room,scandinavian,0.7967616319656372
+26,Color Histogram,1,1207,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_78.jpg,bedroom,minimalist,0.943074107170105
+26,Color Histogram,2,4065,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\scandinavian\living_room_scandinavian_32.jpg,living_room,scandinavian,0.9417634010314941
+26,Color Histogram,3,81,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_62.jpg,bathroom,boho,0.9407957792282104
+26,Color Histogram,4,618,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\scandinavian\bathroom_scandinavian_21.jpg,bathroom,scandinavian,0.9389338493347168
+26,Color Histogram,5,79,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_60.jpg,bathroom,boho,0.9377051591873169
+27,CLIP,1,3250,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_84.jpg,living_room,boho,0.9088563919067383
+27,CLIP,2,742,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_132.jpg,bedroom,boho,0.8281331658363342
+27,CLIP,3,3682,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\modern\living_room_modern_108.jpg,living_room,modern,0.8186350464820862
+27,CLIP,4,952,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_196.jpg,bedroom,industrial,0.8053566813468933
+27,CLIP,5,3193,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_32.jpg,living_room,boho,0.7993149161338806
+27,ResNet,1,742,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\boho\bedroom_boho_132.jpg,bedroom,boho,0.8404008150100708
+27,ResNet,2,1597,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_109.jpg,kitchen,boho,0.820938229560852
+27,ResNet,3,1874,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_359.jpg,kitchen,boho,0.8124979734420776
+27,ResNet,4,3180,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_20.jpg,living_room,boho,0.8103780746459961
+27,ResNet,5,3445,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\industrial\living_room_industrial_79.jpg,living_room,industrial,0.8061653971672058
+27,Color Histogram,1,44,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_29.jpg,bathroom,boho,0.9353866577148438
+27,Color Histogram,2,1,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_1.jpg,bathroom,boho,0.9338662624359131
+27,Color Histogram,3,2774,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_303.jpg,kitchen,modern,0.9319205284118652
+27,Color Histogram,4,3135,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_145.jpg,living_room,boho,0.922103226184845
+27,Color Histogram,5,3230,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\boho\living_room_boho_66.jpg,living_room,boho,0.9216119050979614
+28,CLIP,1,59,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_42.jpg,bathroom,boho,0.5849425196647644
+28,CLIP,2,2149,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\industrial\kitchen_industrial_181.jpg,kitchen,industrial,0.57773357629776
+28,CLIP,3,249,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\industrial\bathroom_industrial_74.jpg,bathroom,industrial,0.5472270250320435
+28,CLIP,4,76,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_58.jpg,bathroom,boho,0.54638671875
+28,CLIP,5,41,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_26.jpg,bathroom,boho,0.5428140163421631
+28,ResNet,1,1116,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_160.jpg,bedroom,minimalist,0.564179539680481
+28,ResNet,2,2421,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\minimalist\kitchen_minimalist_156.jpg,kitchen,minimalist,0.5552178621292114
+28,ResNet,3,3600,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_35.jpg,living_room,minimalist,0.5484017133712769
+28,ResNet,4,1753,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_25.jpg,kitchen,boho,0.537554144859314
+28,ResNet,5,1796,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_289.jpg,kitchen,boho,0.5374836921691895
+28,Color Histogram,1,1717,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\boho\kitchen_boho_217.jpg,kitchen,boho,0.8728158473968506
+28,Color Histogram,2,461,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_112.jpg,bathroom,modern,0.8680392503738403
+28,Color Histogram,3,79,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\boho\bathroom_boho_60.jpg,bathroom,boho,0.867964506149292
+28,Color Histogram,4,2863,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\kitchen\modern\kitchen_modern_384.jpg,kitchen,modern,0.8657222986221313
+28,Color Histogram,5,542,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bathroom\modern\bathroom_modern_62.jpg,bathroom,modern,0.8598781824111938
+29,CLIP,1,1047,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_0.jpg,bedroom,minimalist,1.0
+29,CLIP,2,3527,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_151.jpg,living_room,minimalist,0.9533594846725464
+29,CLIP,3,1209,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_8.jpg,bedroom,minimalist,0.9533594846725464
+29,CLIP,4,1181,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_54.jpg,bedroom,minimalist,0.9495116472244263
+29,CLIP,5,1149,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_25.jpg,bedroom,minimalist,0.9438601732254028
+29,ResNet,1,1047,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_0.jpg,bedroom,minimalist,1.0000001192092896
+29,ResNet,2,1554,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_71.jpg,bedroom,scandinavian,0.9096803069114685
+29,ResNet,3,1181,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_54.jpg,bedroom,minimalist,0.9065912961959839
+29,ResNet,4,3563,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_184.jpg,living_room,minimalist,0.9031346440315247
+29,ResNet,5,3554,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_176.jpg,living_room,minimalist,0.9025143384933472
+29,Color Histogram,1,1047,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_0.jpg,bedroom,minimalist,1.000000238418579
+29,Color Histogram,2,1209,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\minimalist\bedroom_minimalist_8.jpg,bedroom,minimalist,0.9805537462234497
+29,Color Histogram,3,3527,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\living_room\minimalist\living_room_minimalist_151.jpg,living_room,minimalist,0.9805537462234497
+29,Color Histogram,4,1481,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\scandinavian\bedroom_scandinavian_142.jpg,bedroom,scandinavian,0.9773179888725281
+29,Color Histogram,5,944,C:\Users\Khushi Trivedi\visual-retrieval-system\data\raw\images\bedroom\industrial\bedroom_industrial_189.jpg,bedroom,industrial,0.9773179888725281
